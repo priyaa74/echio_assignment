@@ -37,7 +37,7 @@ function MyCampaign() {
         <div className='filterSection'>
 
 <div className='attributeDiv'>
-  <h3>POPULARITY</h3>
+  <h4>POPULARITY</h4>
   <div className='selectBox'>
     <input type="checkbox" name=""  value={'Nano'} onChange={handleFilter} />
     <label htmlFor="">Nano(1k-9k)</label>
@@ -60,7 +60,7 @@ function MyCampaign() {
 
 
 <div className='attributeDiv'>
-  <h3>CAMPAIGN PREFERENCE</h3>
+  <h4>CAMPAIGN PREFERENCE</h4>
   <div className='selectBox'>
     <input type="checkbox"  name="" value={'Barter'} onChange={handleFilter}/>
     <label htmlFor="">Barter</label>
@@ -73,7 +73,7 @@ function MyCampaign() {
 
 
 <div className='attributeDiv'>
-  <h3>PLATFORM</h3>
+  <h4>PLATFORM</h4>
   <div className='selectBox'>
     <input type="checkbox"  name="" value={'YouTube'} onChange={handleFilter}/>
     <label htmlFor="">YouTube</label>
@@ -85,18 +85,18 @@ function MyCampaign() {
 </div>
 
 <div className='attributeDiv'>
-<h3>ENGAGEMENT RATE</h3>
+<h4>ENGAGEMENT RATE</h4>
 <input type="range" min="0"  max="100000000" />
 </div>
 
 <div className='attributeDiv'>
-<h3>AVERAGE</h3>
+<h4>AVERAGE</h4>
 <input type="range" />
 </div>
 
 
 <div className='attributeDiv'>
-  <h3>CATEGORIES</h3>
+  <h4>CATEGORIES</h4>
   <input type="text" placeholder='Search Category' />
   <div className='selectBox'>
     <input type="checkbox"  name="" value={'Autos & Vehicles'} onChange={handleFilter} />
