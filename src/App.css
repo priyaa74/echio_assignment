@@ -72,7 +72,11 @@
   background-color: #979292;
   cursor: pointer;
 }
-
+#search{
+  border: transparent;
+  border-bottom: 1px solid black;
+  margin-bottom: 2px;
+}
 .displaySection > .productsSection{
   width: 65%;
   height: 100%;

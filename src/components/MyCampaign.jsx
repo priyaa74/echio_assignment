@@ -7,6 +7,7 @@ import Loader from './Loader'
 function MyCampaign() {
 
   const [filter, setFilter] = useState([]);
+  const [searchData, setsearchData] = useState("");
   const dispatch= useDispatch();
  
   const{products, filteredProducts, error, loading} = useSelector((storeData)=> storeData)
@@ -22,9 +23,19 @@ function MyCampaign() {
     }
   }
 
+  const searchOnKeyDown=(event)=>{
+    if(event.key=="Enter"){
+      dispatch(product_search(searchData))
+    }
+  }
+
   useEffect(()=>{
     dispatch(product_filter(filter))
   },[filter])
+
+  useEffect(()=>{
+    dispatch(product_search(searchData))
+  },[searchData])
 
   useEffect(()=>{
     dispatch(product_request)
@@ -54,7 +65,7 @@ function MyCampaign() {
     <input type="checkbox"  name="" value={'Custom'} onChange={handleFilter}/>
     <label htmlFor="">Custom</label>
     <br />
-    <input type="range" />
+    <input type="range" min="0"  max="100000000"/>
   </div>
 </div>
 
@@ -97,7 +108,9 @@ function MyCampaign() {
 
 <div className='attributeDiv'>
   <h4>CATEGORIES</h4>
-  <input type="text" placeholder='Search Category' />
+  <input id='search' type="text" placeholder='Search Category' onChange={(e)=>{
+    e.preventDefault();
+    setsearchData(e.target.value)}} onKeyDown={searchOnKeyDown} />
   <div className='selectBox'>
     <input type="checkbox"  name="" value={'Autos & Vehicles'} onChange={handleFilter} />
     <label htmlFor="">Autos & Vehicles</label>
@@ -107,11 +120,11 @@ function MyCampaign() {
     <label htmlFor="">Animation</label>
   </div>
   <div className='selectBox'>
-    <input type="checkbox"  name="" value={'Agriculture & Allied Sectors'} onChange={handleFilter} />
+    <input type="checkbox"  name="" value={'Agriculture & Allied sectors'} onChange={handleFilter} />
     <label htmlFor="">Agriculture & Allied Sectors</label>
   </div>
   <div className='selectBox'>
-    <input type="checkbox"  name="" value={'Arts & Craft'} onChange={handleFilter}/>
+    <input type="checkbox"  name="" value={'Art & Craft'} onChange={handleFilter}/>
     <label htmlFor="">Arts & Craft</label>
   </div>
   <div className='selectBox'>
@@ -119,7 +132,7 @@ function MyCampaign() {
     <label htmlFor="">Beauty</label>
   </div>
   <div className='selectBox'>
-    <input type="checkbox"  name="" value={'Blogs And Travel'} onChange={handleFilter}/>
+    <input type="checkbox"  name="" value={'Blogs & Travel'} onChange={handleFilter}/>
     <label htmlFor="">Blogs And Travel</label>
   </div>
   <div className='selectBox'>

@@ -49,7 +49,11 @@ const handleFilter=(data,value)=>{
 
 
 const handleSearch=(data, value)=>{
-   
+   let result = data.filter((items)=>{
+    if(value.includes(items.Category)|| value.includes(items.Category.toLowerCase()))
+    return items;
+   })
+   return result.length ? result : data;
 }
 
 export {reducer}
