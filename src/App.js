@@ -1,6 +1,8 @@
 
 import './App.css';
+import MyCampaign from './components/MyCampaign';
 import Navbar from './components/Navbar';
+import ProductsCard from './components/ProductsCard';
 
 
 function App() {
@@ -8,6 +10,7 @@ function App() {
     <div className="App">
     <br></br>
    <Navbar/>
+   <MyCampaign/>
     </div>
   );
 }

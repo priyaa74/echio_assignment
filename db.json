@@ -3,155 +3,172 @@
     {
       "Id": "1",
       "Name": "Priya",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Nano",
-      "Campaign Preference": "Barter",
+      "Campaign": "Barter",
       "Platform": "YouTube",
       "Category": "Autos & Vehicles"
     },
     {
       "Id": "2",
       "Name": "Kiara",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Micro",
-      "Campaign Preference": "Paid",
+      "Campaign": "Paid",
       "Platform": "Instagram",
       "Category": "Animation"
     },
     {
       "Id": "3",
       "Name": "Ruhan",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Macro",
-      "Campaign Preference": "Paid",
+      "Campaign": "Paid",
       "Platform": "YouTube",
       "Category": "Agriculture & Allied sectors"
     },
     {
       "Id": "4",
       "Name": "Maya",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Custom",
       "Category": "Art & Craft",
       "Platform": "Instagram",
-      "Campaign Preference": "Barter"
+      "Campaign": "Barter"
     },
     {
       "Id": "5",
       "Name": "Lata",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Nano",
       "Category": "Beauty",
       "Platform": "YouTube",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     },
     {
       "Id": "6",
       "Name": "Prasoon",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Micro",
       "Category": "Blogs & Travel",
       "Platform": "Instagram",
-      "Campaign Preference": "Barter"
+      "Campaign": "Barter"
     },
     {
       "Id": "7",
       "Name": "Yash",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Macro",
       "Category": "Autos & Vehicles",
       "Platform": "YouTube",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     },
     {
       "Id": "8",
       "Name": "Kareena",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Custom",
       "Category": "Animation",
       "Platform": "Instagram",
-      "Campaign Preference": "Barter"
+      "Campaign": "Barter"
     },
     {
       "Id": "9",
       "Name": "Parth",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Nano",
       "Category": "Agriculture & Alied sector",
       "Platform": "YouTube",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     },
     {
       "Id": "10",
       "Name": "Selena",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Micro",
       "Category": "Beauty",
       "Platform": "Instagram",
-      "Campaign Preference": "Barter"
+      "Campaign": "Barter"
     },
     {
       "Id": "11",
       "Name": "Joy",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Macro",
       "Category": "Blogs & Travel",
       "Platform": "YouTube",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     },
     {
       "Id": "12",
       "Name": "Shahnawaz",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Custom",
       "Category": "Autos & Vehicles",
       "Platform": "Instagram",
-      "Campaign Preference": "Barter"
+      "Campaign": "Barter"
     },
     {
       "Id": "13",
       "Name": "Shahziya",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Nano",
       "Category": "Blogs & Travel",
       "Platform": "YouTube",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     },
     {
       "Id": "14",
       "Name": "Vishnu",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Micro",
       "Category": "Autos & Vehicles",
       "Platform": "Instagram",
-      "Campaign Preference": "Barter"
+      "Campaign": "Barter"
     },
     {
       "Id": "15",
       "Name": "Vijay",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Custom",
       "Category": "Beauty",
       "Platform": "Instagram",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     },
     {
       "Id": "16",
       "Name": "Naina",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Custom",
       "Category": "Technology",
       "Platform": "YouTube",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     },
     {
       "Id": "17",
       "Name": "Rashmi",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
+      "ImageURL": "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+      "Detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac consectetur sem. Maecenas varius, elit eu varius euismod, dolor orci pretium enim, eu facilisis nunc erat vitae est. Nulla sit amet commodo tortor.",
       "Popularity": "Custom",
       "Category": "Technology",
       "Platform": "Instagram",
-      "Campaign Preference": "Paid"
+      "Campaign": "Paid"
     }
   ]
 }
